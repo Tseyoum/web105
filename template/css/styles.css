@@ -1,0 +1,49 @@
+/* ---------------------- layout ------------------------- */
+
+body {
+   font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    font-size: 1.2em;
+    background-color: ivory;
+    color: rgb(72, 48, 3);
+}
+
+.container {
+    width: 90%;
+    max-width: 1400px;
+    min-width: 500px;
+    margin: 20px auto;
+    overflow: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    min-height: 80px;
+    text-align: center;
+}
+
+h2 {
+    color: rgba(5, 91, 54, 0.846);
+    text-align: center;
+    margin: 20px;
+    font-size: 1.5em;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+    color: rgb(8, 85, 74);
+}
+
+img {
+    width: 500px;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    color: rgb(131, 99, 10);
+}
