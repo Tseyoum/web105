@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav a{
+    font-size: larger;
+ 
+    color:#c34a1e;
+    padding: 10px 20px;
+    background:#c6abe0;
+    font-weight:bold;
+    text-decoration:none;
+    margin-left:30px;
+    border-radius:20px;
+    border: 2px solid #c6abe0;
+}
+nav a:hover{
+    color:#c6abe0;
+    background:rgb(154, 66, 66);
+    
+}
+a{
+    color: #c03f88;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
