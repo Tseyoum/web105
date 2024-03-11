@@ -1,0 +1,55 @@
+body{
+    background: #f9e7e0;
+    font-family:fantasy;
+    color:#115284
+}
+h1{
+    font-family:fantasy;
+    color: #b9370d;
+    text-align:center;
+    font-weight:bolder;
+}
+h2{
+    font-family:fantasy;
+    color:#0c5f0f;
+    text-align:center;
+    font-weight:bolder;
+}
+img{
+    display:block;
+    padding:30px;
+    background:#eda78d;
+    width: 100%;
+    border-radius: 100px;
+}
+p{
+    font-family:fantasy;
+    color:#630d2a;
+    text-align:center;
+    font-size:larger;
+}
+ul{
+    list-style-type:square;
+    font-family:fantasy;
+    color:#714410;
+}
+ol{
+    list-style-type: armenian;
+    font-family:fantasy;
+    color:#6c400b;
+}
+dl{
+    font-family:fantasy;
+    font-weight:bolder;
+    color:#99150b;
+    font-size:large
+}
+dt{
+    font-family:fantasy;
+    color:#b7289a;
+}
+dd{
+    font-family:fantasy;
+    color:#724707
+}
+    
